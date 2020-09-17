@@ -83,7 +83,6 @@ namespace BST_LCA__Binary_Search_Tree_Lowest_Common_Ancestor_
                 else 
                     break;
             }
-
             return root;
         }
     }
