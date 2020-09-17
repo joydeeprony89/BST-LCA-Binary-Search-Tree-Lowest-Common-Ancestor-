@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>BST_LCA__Binary_Search_Tree_Lowest_Common_Ancestor_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
